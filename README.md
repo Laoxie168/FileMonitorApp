@@ -25,4 +25,5 @@ Java Runtime Environment (JRE) 安装：
 
 使用包管理工具安装 JRE。例如，在 Ubuntu 上：
 chmod +x FileMonitorApp.jar
+
 java -jar FileMonitorApp.jar
